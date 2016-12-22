@@ -24,13 +24,9 @@ the standard library Nutty runs on. Due to its ability to be lightweight, it has
   When will you create the wiki?
     - When time allows.
 
-# Milestones
--- As of 11/9/16, Nutty is a work in progress. Nothing is completed. Ill keep you updated though! :)
--- + Set a Variable as an int or string
--- + Print a declared Variable, int or string
--- + Simple Error-Handling System
--- + Runtime completes under 1 second
-
+# Requirements
+- Install the latest version of Python. https://www.python.org/downloads/release/python-352/
+- Install Nutty's zip file and extract it your desktop. The shell is located in Bin folder.
 
 
 => Coded and Designed by Coconut also known as Sanjay

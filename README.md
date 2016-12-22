@@ -1,4 +1,4 @@
-![Nutty](ttps://img.shields.io/badge/Nutty-v1.31.3b-brightgreen.svg)
+[![Nutty](ttps://img.shields.io/badge/Nutty-v1.31.3b-brightgreen.svg)]()
 [![PyPI](https://img.shields.io/pypi/pyversions/discord.py.svg)](https://pypi.python.org/pypi/discord.py/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/C-oconut/Nutty/master/LICENSE)
 [![Build (build status)](https://img.shields.io/teamcity/http/teamcity.jetbrains.com/s/bt345.svg)]()
@@ -29,4 +29,5 @@ the standard library Nutty runs on. Due to its ability to be lightweight, it has
 - Install Nutty's zip file and extract it your desktop. The shell is located in Bin folder.
 
 
-=> Coded and Designed by Coconut also known as Sanjay
+=> Coded and Designed by Sanjay
+=> Not for practical use. 

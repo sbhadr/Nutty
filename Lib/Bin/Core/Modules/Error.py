@@ -15,8 +15,25 @@ Error_List = [
 "[Nutty] <Test Comment>", #7
 "[Nutty] Test Failed.", #8
 "[Nutty] Undefined Variable.", #9
+"[Nutty] Requires a single string as an Argument.", #10
+"[Nutty] Closing Shell.", #11
+"[Nutty] Shell Exited current Session.", #12
+"[Nutty] Compiler requires a path to target file as its single argument.", #13
+"[Nutty] Executing file.", #14
+"[Nutty] Name needed as first argument. Example: 'credits '", #15
 ]
 
+Command_List = [
+"========================================", #0
+"[Nutty] Loading Shell.", #1
+"[Nutty] Shell Loaded.", #2
+"========================================", #3
+"Nutty v1.31.3b (Beta, last updated: Dec/18/2016, 8:58pm est) [Multi-Platform]", #4
+"Type [help] for more information.", #5
+"========================================", #6
+]
+
+#Table check
 def Test_Error_List():
 	if Toggle_Test_1 is True:
 		print(Error_List[5])

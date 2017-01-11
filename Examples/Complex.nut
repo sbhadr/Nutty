@@ -6,7 +6,7 @@ if Object1 == Object1 then
 	print Object1
 	if Object2 == Object2 then
 		print Object2
-		if Object 3 == Object3 then
+		if Object3 == Object3 then
 			print Object3
 		endif
 	endif

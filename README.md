@@ -16,3 +16,5 @@ the standard library Nutty runs on. Due to its ability to be lightweight, it has
 # Requirements
 - Install the latest version of Python. https://www.python.org/downloads/release/python-352/
 - Install Nutty's zip file and extract it your desktop. The shell is located in Bin folder.
+
+*Fully functional, however was meant as a joke. Hence the name and the file extension*

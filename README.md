@@ -18,4 +18,5 @@ the standard library Nutty runs on. Due to its ability to be lightweight, it has
 - Install Nutty's zip file and extract it your desktop. The shell is located in Bin folder.
 
 *Fully functional, however was meant as a joke. Hence the name and the file extension*
+
 *Inspired by a youtube series (could no longer find the series on youtube)*
